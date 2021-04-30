@@ -6,5 +6,6 @@ Ler o pdf VALIAÇÃO EXPERIMENTAL DE ALGORITMOS.pdf
 
 ## para testar o projeto
 Para compilar os códigos em C++ `g++ nomedoarquivo.cpp -o binario`. Executando `./binario`.
-Para executar os códigos em Python `python3 nomearquivo.py/`. Necessário instalar as bibliotecas numpy, matplotlib.pyplot e LinearRegression.
+
+Para executar os códigos em Python `python3 nomearquivo.py`. Necessário instalar as bibliotecas numpy, matplotlib.pyplot e LinearRegression.
 
